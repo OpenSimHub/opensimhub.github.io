@@ -3,7 +3,7 @@
 A platform for open-source simulation projects developed by research groups and students of the [University of South-Eastern Norway](https://www.usn.no).
 
 ### Current Projects
-- **OpenHPL** - open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
+- **[OpenHPL](https://openhpl.opensimhub.org)** - open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 
 ### Our Research Groups
 
