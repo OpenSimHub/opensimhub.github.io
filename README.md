@@ -1,6 +1,6 @@
 ## Welcome to OpenSimHub
 
-| ![Logo](logo.svg) |A platform for open-source simulation projects developed by research groups and students of the [University of South-Eastern Norway](https://www.usn.no).|
+| ![Logo](logo.svg) |A platform for open-source simulation projects developed by research groups and students of the [University of South-Eastern Norway](https://www.usn.no).<br>|
 
 
 ### Current Projects
