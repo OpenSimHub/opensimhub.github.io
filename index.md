@@ -1,4 +1,8 @@
+![Logo](logo.svg)
+
 ## Welcome to OpenSimHub
+
+
 
 A platform for open-source simulation projects developed by research groups and students of the [University of South-Eastern Norway](https://www.usn.no).
 
