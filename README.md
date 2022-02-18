@@ -1,10 +1,10 @@
 ## Welcome to OpenSimHub
 
-| ![Logo](logo.svg) |A platform for open-source simulation projects developed by research groups and students of the [University of South-Eastern Norway](https://www.usn.no).<br>|
+| ![Logo](img/logo.svg) |A platform for open-source simulation projects developed by research groups and students of the [University of South-Eastern Norway](https://www.usn.no).<br>|
 
 
 ### Current Projects
-- **FMIHydro** - Development of [FMI](https://fmi-standard.org) based models of Hydropower System components.
+- [FMIHydro]() - Development of [FMI](https://fmi-standard.org) based models of Hydropower System components.
 - **[OpenHPL](https://openhpl.opensimhub.org)** - open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 
 ### Our Research Groups
