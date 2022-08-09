@@ -6,7 +6,7 @@
 ### Current Projects
 - [**SYSOPT**](https://sysopt.usn.no) This project aims to optimize the interface between power producers and grid owner by developing more efficient system services, thus ensuring operational security of the future energy system.
 - [**FMIHydro**](FMIHydro.md) - Development of [FMI](https://fmi-standard.org) based models of Hydropower System components.
-- [**OpenHPL**](https://openhpl.opensimhub.org)** - open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
+- [**OpenHPL**](https://openhpl.opensimhub.org) - open-source hydropower library that consists of hydropower unit models and is modelled using Modelica.
 
 ### Our Research Groups
 
