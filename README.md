@@ -10,9 +10,8 @@
 
 ### Our Research Groups
 
-- [**HPTD**](https://www.usn.no/english/research/our-research/technology/hydro-power-transmission-and-distribution/) - Hydro Power, Transmission and Distribution
-- [**TMCC**](https://www.usn.no/english/research/our-research/technology/telemark-modeling-and-control-center/) - Telemark Modeling and Control Center
-- [**SMART**](https://www.usn.no/english/research/our-research/technology/smart/) - SMART Houses, SMART Buildings and connections to SMART cities.
+- [**EPS**](https://www.usn.no/english/research/our-research-centres-and-groups/technology/electrical-power-systems/) - Electrical Power Systems Research Group
+- [**TMCC**](https://www.usn.no/english/research/our-research-centres-and-groups/technology/applied-modeling-and-control/) - Applied Modeling and Control Research Group
 
 ### Contact
 
