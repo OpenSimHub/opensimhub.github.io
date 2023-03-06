@@ -11,7 +11,7 @@
 ### Our Research Groups
 
 - [**EPS**](https://www.usn.no/english/research/our-research-centres-and-groups/technology/electrical-power-systems/) - Electrical Power Systems Research Group
-- [**TMCC**](https://www.usn.no/english/research/our-research-centres-and-groups/technology/applied-modeling-and-control/) - Applied Modeling and Control Research Group
+- [**AMOC**](https://www.usn.no/english/research/our-research-centres-and-groups/technology/applied-modeling-and-control/) - Applied Modeling and Control Research Group
 
 ### Contact
 
